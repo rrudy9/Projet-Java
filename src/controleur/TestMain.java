@@ -1,3 +1,4 @@
+// camille chollet : histogrammes avec JFreeChart
 package controleur;
 
 import java.util.ArrayList;
