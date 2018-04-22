@@ -1,4 +1,4 @@
-
+ //réda Panel+actionlistener+JButton avec JScroll pour scroller la page
 package vue;
 
 import controleur.*;
@@ -42,7 +42,7 @@ public class Fenetre extends JFrame implements ActionListener{
         
         
          
-     
+        
 	private JTabbedPane  tab_onglet ;
 	private panel_champs tab_onglet2 ;
 	private panel_champs tab_onglet3 ;
@@ -82,7 +82,7 @@ public class Fenetre extends JFrame implements ActionListener{
 	private JPanel ajouter ;
         private JPanel majj;
         public boolean connecte;
-
+        //initialisation 
 	public Fenetre(TestMain cntrl) {
 		
             controle = cntrl;
