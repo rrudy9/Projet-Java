@@ -1,7 +1,7 @@
 
 package modele;
 
-
+// commentaire
 public class Chambre extends Table {
     
     
